@@ -1,0 +1,19 @@
+Data Analyst Internship – Task 1: Data Cleaning and Preprocessing
+
+✅ Tools Used:
+- Microsoft Excel
+
+🧹 Steps I Did:
+1. Arranged the date column in ascending order (from oldest to newest).
+2. Expanded rows and columns to properly view all the data.
+3. Ensured all data was clearly visible and readable.
+4. Saved the updated file for better structure and analysis.
+
+📁 Output Files:
+- cleaned_dataset.xlsx → organized version of the dataset.
+- README.txt → this file with a summary of the steps.
+
+📝 Notes:
+- No data was deleted or changed, only reorganized for better visibility.
+- Dataset is ready for further cleaning or analysis.
+
