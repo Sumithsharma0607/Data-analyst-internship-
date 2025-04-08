@@ -1,0 +1,22 @@
+ 📊 Task 2 – Data Visualization and Storytelling
+🛠 Tools Used
+.Power BI – for creating interactive dashboards
+
+📊 Visualizations Created
+
+1. Column Chart – Boxes Shipped by Country
+- Displays the number of product boxes shipped per country.
+- Highlights regions with high shipping activity.
+
+ 2. Bar Chart – Total Boxes Shipped
+- Compares how many boxes of products were shipped overall.
+- Helps identify key distribution patterns.
+
+ 3. Line Chart – Yearly Sales Trend
+- Shows the sales amount across each month of the year.
+- Helps visualize how sales increased or decreased over time.
+
+ 4. Sales Dip Chart
+- Specifically highlights the months where sales decreased.
+- Useful for analyzing performance fluctuations or identifying off-seasons.
+
